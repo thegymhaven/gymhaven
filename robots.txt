@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thegymhaven.netlify.app/sitemap.xml
